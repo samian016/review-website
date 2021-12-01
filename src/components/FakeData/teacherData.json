@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "type":"Head TEACHER",
+        "name":"MEVE",
+        "img":"https://miro.medium.com/max/1024/0*O33EnvFPr__dwyZy"
+    },
+    {
+        "id":2,
+        "type":"TEACHER",
+        "name":"OTIS",
+        "img":"https://thumbs.dreamstime.com/b/young-asian-business-woman-isolated-smiling-122154472.jpg"
+    },
+    {
+        "id":3,
+        "type":"ARTS TEACHER",
+        "name":"AJMINA TITHI",
+        "img":"https://marvel-b1-cdn.bc0a.com/f00000000026007/resilienteducator.com/wp-content/uploads/2014/11/math-teacher.jpg"
+    },
+    {
+        "id":4,
+        "type":"SPORTS TEACHER",
+        "name":"SAMIAN",
+        "img":"https://st.depositphotos.com/1177973/3772/i/950/depositphotos_37724089-stock-photo-young-teacher-near-chalkboard-in.jpg"
+    }
+]

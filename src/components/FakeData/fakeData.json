@@ -1,0 +1,57 @@
+[
+    
+    {
+        "id":2,
+        "name":"SPORTS",
+        "img":"https://img.jakpost.net/c/2019/03/23/2019_03_23_68357_1553351069._large.jpg"
+    },
+   
+    {
+        "id":4,
+        "name":"EXCURSIONS",
+        "img":"https://homburg1.de/wp-content/uploads/2020/02/kinder_spielen_draussen_1.jpg"
+
+    },
+    {
+        "id":5,
+        "name":"LANGUAGE LEARNING",
+        "img":"https://cdn.studyfrenchspanish.com/wp-content/uploads/2020/04/Benefits-of-online-Language-learning.jpg"
+
+    },
+    {
+        "id":6,
+        "name":"MUSIC",
+        "img":"https://www.todaysparent.com/wp-content/uploads/2012/02/music-feature.jpg"
+
+    },
+    {
+        "id":7,
+        "name":"DANCE",
+        "img":"https://www.pngitem.com/pimgs/m/576-5768930_indian-kids-dance-png-transparent-png.png"
+
+    },
+    {
+        "id":8,
+        "name":"EDUCATION",
+        "img":"https://numberworksnwords.com/assets/BlogImages/8f2fb4f8-e423-4414-b237-d4f935fa5ac1-main.jpg"
+
+    },
+    {
+        "id":9,
+        "name":"BOOKS",
+        "img":"https://www.incimages.com/uploaded_files/image/1920x1080/getty_495235369_180481.jpg"
+
+    },
+    {
+        "id":10,
+        "name":"Healthy FOOD",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5mBvlbf2hbKQc_aGGKyQCNzdjwmwMXCjlTg&usqp=CAU"
+
+    },
+    {
+        "id":11,
+        "name":"ARTS & CRAFTS",
+        "img":"https://www.kidszone.ae/wp-content/uploads/2017/11/arts-craft.jpg"
+
+    }
+]

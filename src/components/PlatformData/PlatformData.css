@@ -1,0 +1,31 @@
+.details{
+    border: 2px solid lightslategrey;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: lightslategray;
+    /* display: flex; */
+    /* justify-content: space-between; */
+  }
+  .details-img{
+      padding-top: 5px;
+      max-width: 100%;
+      height: auto;
+  }
+  .btn-list{
+    background-color:rgb(219, 207, 204);
+    width: 100px;
+    height: 30px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    cursor: pointer;
+    margin:5px;
+    margin-left: 10px;
+    cursor: pointer;
+
+}
+.details:hover{
+    box-shadow: 0 0 11px rgb(10, 10, 10);
+    transform: scale(1.02);
+    transition: .3s;
+}

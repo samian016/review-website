@@ -1,0 +1,27 @@
+.header{
+    text-align: center;
+    background-color:palevioletred;
+    margin: 1px;
+    padding: 10px;
+    
+    
+
+}
+.line-two{
+    color:seashell;
+    
+}
+.line-three{
+    color:orangered;
+}
+.nav-bar a{
+    text-decoration: none;
+    padding: 5px;
+    border: 2px solid rgb(136, 136, 70);
+    background-color: rgba(82, 90, 54, 0.767);
+    margin: 20px;
+    border-radius: 2px;
+    padding-bottom: 5px;
+    color: white;
+    margin-bottom: 10px ;
+}

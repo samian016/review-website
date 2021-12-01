@@ -1,0 +1,16 @@
+.details{
+    border: 2px solid lightslategrey;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: lightyellow;
+   
+  }
+  .blog{
+      color:cadetblue;
+      font-style: italic;
+  }
+  .title{
+      color: crimson;
+      font-style: oblique;
+  }
